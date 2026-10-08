@@ -16,7 +16,8 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | --- | --- | --- | --- |
-| — | | | |
+| 1 | https://mvnrepository.com/artifact/jakarta.persistence/jakarta.persistence-api/3.2.0 | Jakarta API Maven | pom.xml |
+| 2 | https://mvnrepository.com/artifact/org.postgresql/postgresql | Conferência versão postgresql | pom.xml |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -38,7 +39,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| — | | |
+| 1 | https://chatgpt.com/share/6ac6d25c-a80c-83ea-b4ea-e7ff186613bd | Configuração do Maven na IDE |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
