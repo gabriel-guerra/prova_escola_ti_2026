@@ -20,6 +20,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 @CrossOrigin(origins = "http://localhost:3000")
 public class ProdutoController {
 
+    @Autowired
     private final ProdutoRepository repository;
 
     public ProdutoController(ProdutoRepository repository) {
