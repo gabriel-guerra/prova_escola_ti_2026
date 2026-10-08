@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Gabriel S. Guerra
+Nome: Gabriel Sestito Guerra
 
-RA: >>> PREENCHER <<<
+RA: 260075092
 
 Conta GitHub: @gabriel-guerra
 
