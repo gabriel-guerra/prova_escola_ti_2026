@@ -12,13 +12,13 @@ public class Produto {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nome;
-    private Integer precoCentavos;
+    private Double precoCentavos;
     private Integer quantidade;
 
     public Produto() {
     }
 
-    public Produto(String nome, Integer precoCentavos, Integer quantidade) {
+    public Produto(String nome, Double precoCentavos, Integer quantidade) {
         this.nome = nome;
         this.precoCentavos = precoCentavos;
         this.quantidade = quantidade;
@@ -32,7 +32,7 @@ public class Produto {
         return nome;
     }
 
-    public Integer getPrecoCentavos() {
+    public Double getPrecoCentavos() {
         return precoCentavos;
     }
 
